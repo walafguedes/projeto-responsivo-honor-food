@@ -18,7 +18,7 @@ section {
   
   background: #EFF1FF;
   margin: 0 auto;
-  height: 100vh;
+  height: 100%;
   
   
   
@@ -285,6 +285,7 @@ a {
     display: grid;
     align-content: center;
     background: #EFF1FF;
+    height: 100vh;
     
   }
   
@@ -354,6 +355,7 @@ a {
     display: grid;
     
     grid-template-columns: 1fr 2fr;
+   
     
     
   }
