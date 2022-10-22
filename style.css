@@ -30,7 +30,7 @@ section {
   font-size: 62.5%;
 }
 
-.logo-principal {
+.main-logo {
   width: 13.7rem;
   height: 13.7rem;
   object-fit: contain;
@@ -299,7 +299,7 @@ a {
     
   }
   
-  .logo-principal {
+  .main-logo {
     min-width: 21.4rem;
     height: 16.7rem;
     
